@@ -1,4 +1,4 @@
-#  Send Email in Background Using Laravel Queue
+#  Send Emails in Background Using Laravel Queue
 
 ## Installation
 - Add Queue Driver in .env file `database` Or `redis`
